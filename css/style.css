@@ -9,6 +9,7 @@ hover color:	#fed136 (yellow)
 body {
 	font-family: "Raleway", Sans-serif;
 	-webkit-font-smoothing: antialiased;
+}
 
 .navbar-inverse {
 	background-color: #35005d !important;
