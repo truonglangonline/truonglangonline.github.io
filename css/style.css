@@ -10,6 +10,9 @@ body {
 	font-family: "Raleway", Sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
+nav {
+	background-color: #35005d;
+},
 h1,
 h2,
 h3,
