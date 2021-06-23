@@ -10,8 +10,8 @@ body {
 	font-family: "Raleway", Sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
-nav {
-	background-color: #35005d;
+.navbar-inverse {
+	background-color: #35005d !important;
 },
 h1,
 h2,
